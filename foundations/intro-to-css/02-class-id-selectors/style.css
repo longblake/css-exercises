@@ -1,20 +1,19 @@
 .class-one,.class-two {
     background-color: rgb(255, 167, 167);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: lighter;
+    font-family: Verdana, sans-serif, sans-serif;
 }
 
 .class-two{
-    font-size:x-large;
+    font-size:24px;
 
 }
 #number-2{
     color: rgb(12, 16, 252);
-    font-size: xx-large;
+    font-size: 36px;
 }
 
 #number-4{
     background-color: rgb(113, 255, 133);
-    font-size: x-large;
+    font-size: 24px;
     font-weight: bold;
 }
